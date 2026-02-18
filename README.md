@@ -1,0 +1,2 @@
+# Optimizing-Human-Connection-Efficiency-Diagnosis-and-Operational-Improvement-Strategies
+Data-driven project for CallMeMaybe to identify and address inefficient virtual telephony operators. Analyzes call data (missed calls, waiting times, outgoing ratio) using EDA and statistical hypothesis testing to pinpoint performance gaps and recommend targeted operational improvements and training strategies.
